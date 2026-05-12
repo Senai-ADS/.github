@@ -1,25 +1,25 @@
-# 🚀 Analysis and Development of Systems Organization
+# 🚀 Organização de Análise e Desenvolvimento de Sistemas
 
-Welcome to our GitHub organization!  
-We are a group of students from the **Analysis and Development of Systems** course, focused on learning, building projects, and sharing knowledge through technology.
-
----
-
-# 📚 About Us
-
-This organization was created to:
-
-- Develop academic and personal projects
-- Practice programming and software development
-- Collaborate as a team
-- Improve technical and professional skills
-- Share knowledge with other students
+Bem-vindo à nossa organização no GitHub!  
+Somos um grupo de estudantes de **Análise e Desenvolvimento de Sistemas**, focados em aprender, desenvolver projetos e compartilhar conhecimento através da tecnologia.
 
 ---
 
-# 🛠 Technologies
+# 📚 Sobre Nós
 
-Some technologies we use:
+Esta organização foi criada com o objetivo de:
+
+- Desenvolver projetos acadêmicos e pessoais
+- Praticar programação e desenvolvimento de software
+- Trabalhar em equipe
+- Aprimorar habilidades técnicas e profissionais
+- Compartilhar conhecimento com outros estudantes
+
+---
+
+# 🛠 Tecnologias
+
+Algumas tecnologias utilizadas nos projetos:
 
 - HTML
 - CSS
@@ -30,55 +30,56 @@ Some technologies we use:
 
 ---
 
-# 👨‍💻 Students
+# 👨‍💻 Integrantes
 
-Add the students' information below:
+Adicione abaixo as informações dos estudantes:
 
-| Name | GitHub | LinkedIn | Role |
+| Nome | GitHub | LinkedIn | Função |
 |------|------|------|------|
-| Arthur Reis de Oliveira | [@github](https://github.com/) | [LinkedIn](https://linkedin.com/) | Developer / Scrum Master |
-| Gabriele | [@github](https://github.com/) | [LinkedIn](https://linkedin.com/) | Developer / PO |
-| Felipe Saadi | [@github](https://github.com/) | [LinkedIn](https://linkedin.com/) | Developer |
-| Eduardo | [@github](https://github.com/) | [LinkedIn](https://linkedin.com/) | Developer |
+| Arthur Reis de Oliveira | [@github](https://github.com/) | [LinkedIn](https://linkedin.com/) | Desenvolvedor / Scrum Master |
+| Gabrielle Aparecida | [@github](https://github.com/) | [LinkedIn](https://linkedin.com/) | Desenvolvedor / PO |
+| Felipe Saadi | [@github](https://github.com/) | [LinkedIn](https://linkedin.com/) | Desenvolvedor |
+| Eduardo Alberto | [@github](https://github.com/) | [LinkedIn](https://linkedin.com/) | Desenvolvedor |
 
 ---
 
-# 📂 Projects
+# 📂 Projetos
 
-| Project | Description | Status |
+| Projeto | Descrição | Status |
 |------|------|------|
-| .Garfel | Short description | 🚧 In Progress |
-| Expense Control | Short description | 🚧 In Progress |
+| .Garfel | Breve descrição | 🚧 Em andamento |
+| Crontrole de Gastos | Breve descrição | 🚧 Em andamento |
 
 ---
 
-# 🤝 Contributing
+# 🤝 Como Contribuir
 
-To contribute to the projects:
+Para contribuir com os projetos:
 
-1. Fork the repository
-2. Create a branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
+1. Faça um fork do repositório
+2. Crie uma branch
 
 ```bash
-git commit -m "Add new feature"
+git checkout -b nome-da-feature
 ```
 
-4. Push to GitHub
+3. Faça o commit das alterações
 
 ```bash
-git push origin feature-name
+git commit -m "Adiciona nova funcionalidade"
 ```
 
-5. Open a Pull Request
+4. Envie para o GitHub
+
+```bash
+git push origin nome-da-feature
+```
+
+5. Abra um Pull Request
 
 ---
 
-# 📫 Contact
+# 📫 Contato
 
-- GitHub Organization: [https://github.com/organization-name](https://github.com/Senai-ADS)
+- GitHub da Organização: [Senai-ADS](https://github.com/Senai-ADS)
+
